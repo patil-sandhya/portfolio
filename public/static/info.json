@@ -1,0 +1,41 @@
+{
+  "name": "Sandhya Patil",
+  "address": "India 🇮🇳",
+  "bio": "Passionate about building responsive, scalable, and user-friendly web applications from concept to deployment.",
+  "mainSkill": "Full Stack Web Developer",
+  "img": "/img/slider/ProfileE.jpg",
+  "skills": [
+    {
+      "name": "javascript",
+      "icon": "/img/skills/javascript.webp",
+      "color": "rgb(247, 80, 35)",
+      "value": 85
+    },
+    {
+      "name": "node",
+      "icon": "/img/skills/node.png",
+      "color": "rgb(28, 190, 89)",
+      "value": 95
+    },
+    {
+      "name": "react",
+      "icon": "/img/skills/React.webp",
+      "color": "rgb(128, 103, 240)",
+      "value": 75
+    }
+  ],
+  "languages":[
+
+  ],
+  "social": [
+    { "name": "Github", "icon": "icon-github-1", "url": "https://github.com/patil-sandhya" },
+    { "name": "linkedin", "icon": "icon-linkedin-1", "url": "https://www.linkedin.com/in/sandhya-patil-b30bbb254"},
+    { "name": "Instagramm", "icon": "icon-instagram-12", "url": "https://www.instagram.com/patil_sandhya/" },
+    { "name": "twitterr", "icon": "icon-twitter-12", "url": "https://twitter.com/begadesandhya" }
+  ],
+  "contact": {
+    "address": "Karwar, Karnataka",
+    "email": "begadesandhya@gmail.com",
+    "phn": "+91 8975049498"
+  }
+}
