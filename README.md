@@ -26,7 +26,6 @@ This is my personal portfolio website showcasing my skills, projects, and profes
 
 🌐 [View Portfolio]https://my-portfolio-phi-five-21.vercel.app/)
 
----
 
 ## 📷 Screenshots
 ![Screenshot 2025-06-23 125812](https://github.com/user-attachments/assets/4d1d4f84-930f-4680-b425-080df43cf8ee)
