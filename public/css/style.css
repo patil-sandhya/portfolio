@@ -1,33 +1,6 @@
 @charset "utf-8";
 
-/*	Copyright (c) 2022 Marketify
-/*	Author: Marketify
-/*	This file is made for CURRENT TEMPLATE
-
-
-01)	DIZME BASE
-02) DIZME MOBILE MENU
-03) DIZME HEADER
-04) DIZME HERO
-05) DIZME PROCESS
-06) DIZME ABOUT
-07) DIZME PORTFOLIO
-08) DIZME SKILLS
-09) DIZME SERVICES
-10) DIZME TESTIMONIALS
-11) DIZME PARTNERS
-12) DIZME NEWS
-13) DIZME SUBSCRIBE
-14) DIZME CONTACT
-15) DIZME COPYRIGHT
-16) DIZME MAGIC CURSOR
-17) DIZME TOTOP
-18) DIZME MEDIA QUERIES (FOR SMALL DEVIVES)
-
-
-/*---------------------------------------------------*/
-/*	01) DIZME BASE
-/*---------------------------------------------------*/
+---------------------------------------------------*/
 
 html {
   overflow-x: hidden;
