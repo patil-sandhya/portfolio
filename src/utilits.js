@@ -14,7 +14,7 @@ const preloader_ = () => {
       }, 800);
       setTimeout(function () {
         preloader.remove();
-      }, 2000);
+      }, 3000);
     } else {
       preloader.remove();
     }
