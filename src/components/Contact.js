@@ -164,7 +164,7 @@ const Contact = () => {
                 </form>
               </div>
             </div>
-            {/* Brush and map sections */}
+            
           </div>
         </div>
         {/* Brush */}
