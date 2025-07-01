@@ -167,7 +167,7 @@ const Contact = () => {
             
           </div>
         </div>
-        {/* Brush */}
+        
       </div>
     </div>
   );
