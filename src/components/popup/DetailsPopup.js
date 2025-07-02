@@ -19,9 +19,7 @@ const DetailsPopup = ({ open, close }) => {
             </div>
             <div className="portfolio_main_title">
               <h3>Backend Engineering</h3>
-              {/* <span>
-                <a href="#">Whatsapp Bot</a>
-              </span> */}
+            
               <div />
             </div>
             <div className="main_details">
