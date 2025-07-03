@@ -73,6 +73,7 @@ const News = () => {
         <div className="brush_1 wow zoomIn" data-wow-duration="1s">
           <img src="img/brushes/news/1.png" alt="image" />
         </div>
+{* blog image*}
         <div className="brush_2 wow zoomIn" data-wow-duration="1s">
           <img src="img/brushes/news/2.png" alt="image" />
         </div>
