@@ -156,7 +156,7 @@ const Contact = () => {
                   <div className="dizme_tm_button">
                     <a
                       id="send_message"
-                      href={`mailto:vibhupandey.vp@gmail.com?cc=skyldragon.md@gmail.com&subject=${formData.subject}&body=Hi %0D%0A%0D%0AI'm ${formData.name}%0D%0A%0D%0A${formData.message}`}
+                      href={`mailto:begadesandhya@gmail.com?subject=${formData.subject}&body=Hi %0D%0A%0D%0AI'm ${formData.name}%0D%0A%0D%0A${formData.message}`}
                     >
                       <span>Contact Us</span>
                     </a>
